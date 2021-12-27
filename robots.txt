@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://transpict.github.io/sitemapx.xml
